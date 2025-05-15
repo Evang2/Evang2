@@ -1,4 +1,4 @@
-### Hi, I'm Andreas Evangeliou! 👋
+### Hi, I'm Andreas! 👋
 <b>🎓 Computer Science Student | IoT & AI Enthusiast </b><br>
 I'm a final-year BSc (Hons) Computer Science student at the University of East London (Metropolitan college), passionate about leveraging technology to solve real-world problems. My focus is on Internet of Things (IoT) and Artificial Intelligence (AI).
 
