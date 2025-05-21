@@ -9,10 +9,7 @@ I'm a final-year BSc (Hons) Computer Science student at the University of East L
 - 🌍 Advocate for sustainable tech and ethical AI
 - 🛠️ Always tinkering with Arduino projects
 
-### 🚀 Featured Project
-#### [Crop Management Dashboard](https://github.com/Evang2/crop-management-dashboard) 🌾
-A smart agriculture system that uses Arduino sensors and AI to monitor soil and climate conditions, providing real-time crop recommendations and resource optimization tips. Built with React.js, Flask, and TensorFlow, achieving ~94% accuracy in crop predictions.
-<b> Note: </b> This is a prototype for my thesis and not production-ready.
+
 
 
 
