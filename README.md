@@ -5,7 +5,7 @@ I'm a final-year BSc (Hons) Computer Science student at the University of East L
 ###  About Me
 - 🎓 Studying Computer Science at the University of East London (Expected 2025)
 - 🔬 Thesis: Smart Agriculture: A Data-Driven Decision Support System Using Arduino and AI for Optimized Crop Management
-- 💻 Skilled in Java, Python, JavaScript, C++, and frameworks like Flask, React.js, and TensorFlow
+- 💻 Skilled in Java, Python, JavaScript and frameworks like Flask, React.js and TensorFlow
 - 🌍 Advocate for sustainable tech and ethical AI
 - 🛠️ Always tinkering with Arduino projects
 
